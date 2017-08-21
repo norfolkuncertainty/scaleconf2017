@@ -30,7 +30,7 @@ Daniel asked why we are not seeing the sort of scale in NZ that is seen elsewher
 
 Some reasons he thought this might be are:
 
-We have an over reliance on databases and tend to use tend to use them for everything, even when not appropriate.
+We have an over reliance on databases and tend to use them for everything, even when not appropriate.
 
 He suggested we should be taking as much out of the database as possible, ie. using blob storage instead of plonking files in databases.
 
@@ -157,11 +157,11 @@ There are 4 components
 
  He gave us a few links to the various projects
 
-[spiffe](spiffe.io)
+[spiffe](http://spiffe.io)
 
-[padme.io - Only a form asking if you want to collaborate](padme.io)
+[padme.io - Only a form asking if you want to collaborate](http://padme.io)
 
-[istio.io](istio.io)
+[istio.io](http://istio.io)
 
 
 ## Reduce time to market, Increase quality to market
